@@ -13,9 +13,6 @@ public class Array {
 //        This is static array creation
         int [] num = {1,2,3,4,5};
 
-//        This is dynamic array creation
-
-
         System.out.println("sum is : " + staticSum(num));
     }
 }
